@@ -16,3 +16,9 @@ A business landing page concept. This is done for practice and trying out some n
 * Font Awesome
 * Google Fonts
 
+
+
+**Live preview**:
+
+https://business-landing-page-coffeefueledpanda.netlify.com/
+
