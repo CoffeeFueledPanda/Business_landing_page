@@ -20,5 +20,5 @@ A business landing page concept. This is done for practice and trying out some n
 
 **Live preview**:
 
-https://business-landing-page-coffeefueledpanda.netlify.com/
+[Live preview](https://business-landing-page-coffeefueledpanda.netlify.com/)
 
